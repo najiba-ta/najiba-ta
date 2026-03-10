@@ -1,10 +1,8 @@
 <p align="center">
-  <img src="https://github.com/najiba-ta/Naji/blob/main/images/download.jfif" alt="Banner Image" width="100%" style="border-radius:15px;"/>
+  <img src=https://github.com/najiba-ta/Naji/blob/main/images/ChatGPT%20Image%20Mar%2010%2C%202026%2C%2008_57_27%20PM.png" style="border-radius:15px;"/>
 </p>
 
-<p align="center">
-  <img width="150" src="https://github.com/najiba-ta/Naji/blob/main/images/ChatGPT%20Image%20Mar%2010%2C%202026%2C%2008_46_16%20PM.png" alt="Profile Picture" style="border-radius:50%; margin-top:-75px; border:5px solid white;"/>
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Najiba Takarrum </h1>
 <p align="center">
