@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img width="150" src="https://chatgpt.com/backend-api/estuary/content?id=file_000000006cd871fa8acdb82de8f3cd66&ts=492542&p=fs&cid=1&sig=a4f8a31d382718adc1a7ddb64e5639fbfa607a6dbad598aa651a499509e04476&v=0" alt="Profile Picture" style="border-radius:50%; margin-top:-75px; border:5px solid white;"/>
+  <img width="150" src="https://github.com/najiba-ta/Naji/blob/main/images/ChatGPT%20Image%20Mar%2010%2C%202026%2C%2008_46_16%20PM.png" alt="Profile Picture" style="border-radius:50%; margin-top:-75px; border:5px solid white;"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Najiba Takarrum </h1>
