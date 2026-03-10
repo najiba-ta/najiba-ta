@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=https://github.com/najiba-ta/Naji/blob/main/images/ChatGPT%20Image%20Mar%2010%2C%202026%2C%2008_57_27%20PM.png" style="border-radius:15px;"/>
+  <img src="https://github.com/najiba-ta/Naji/blob/main/images/ChatGPT%20Image%20Mar%2010%2C%202026%2C%2008_57_27%20PM.png" style="border-radius:15px;"/>
 </p>
 
 
