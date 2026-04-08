@@ -78,8 +78,8 @@
 ## 📌 Pinned Repositories
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=najiba-ta&repo=আপনার-রিপোজিটরির-নাম&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=najiba-ta&repo=অন্য-রিপোজিটরির-নাম&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=najiba-ta&Digi-tools-buying&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=najiba-ta&GitHub_Issue_Tracker&theme=tokyonight" />
 </p>
 
 
