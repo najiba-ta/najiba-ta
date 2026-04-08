@@ -77,25 +77,6 @@
 ---
 
 
-## 📌 My Projects
-
-<p align="center">
-<a href="https://github.com/najiba-ta/REPO-NAME-1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=najiba-ta&repo=REPO-NAME-1&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/najiba-ta/REPO-NAME-2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=najiba-ta&repo=REPO-NAME-2&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/najiba-ta/REPO-NAME-3">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=najiba-ta&repo=REPO-NAME-3&theme=tokyonight" />
-</a>
-</p>
-
-
-
-
 
 
 
