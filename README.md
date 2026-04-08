@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi 👋, I'm Najiba Takarrum </h1>
 <p align="center">
-  <strong>Front-end Developer</strong> | HTML, CSS, JS | <strong>AI & Automation Enthusiast</strong> | n8n & Zapier
+  <strong>Front-end Developer</strong> | HTML, CSS, JS, React, MongoDB, Node.js, Next.js, Firebase, AI
 </p>
 
 <p align="center">
@@ -28,8 +28,9 @@
 ---
 
 ### 🌟 About Me
-I am a passionate front-end developer and automation enthusiast. I love building **responsive websites** and creating **automation workflows** using **n8n and Zapier**. My goal is to combine web development and AI/automation to create practical and modern solutions.
-
+I am a front-end developer currently learning web development and building responsive, user-friendly interfaces.
+I enjoy working with modern technologies and continuously improving my skills by creating practical projects.
+My focus is on writing clean code, designing minimal UI, and developing modern web experiences.
 ---
 
 ### 🔧 Skills
@@ -59,11 +60,15 @@ I am a passionate front-end developer and automation enthusiast. I love building
   <a href="shahidnajiba@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/yourprofile/" target="_blank">
+  <a href="https://www.linkedin.com/in/najiba-webdev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+ <a href="https://www.instagram.com/naju_is_here" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  
+  <a href="https://www.facebook.com/najibatakarrum" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
 
