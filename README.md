@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="YOUR_BANNER_LINK" alt="banner" />
+</p>
 <h1 align="center">Hi 👋, I'm Najiba Takarrum</h1>
 
 <p align="center">
