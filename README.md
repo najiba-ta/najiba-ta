@@ -44,11 +44,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=najiba-webdev&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=najiba-ta&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najiba-webdev&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najiba-ta&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -56,7 +56,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=najiba-webdev&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=najiba-ta&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -64,7 +64,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=najiba-webdev&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=najiba-ta&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -72,7 +72,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/najiba-webdev/najiba-webdev/output/snake.svg" />
+<img src="https://raw.githubusercontent.com/najiba-ta/najiba-ta/output/snake.svg" />
 </p>
 
 ---
@@ -80,7 +80,7 @@
 ## ✨ Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=najiba-webdev&label=Profile%20views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=najiba-ta&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
