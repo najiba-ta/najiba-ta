@@ -71,7 +71,7 @@
 
 ## 🐍 Contribution Snake
 <p align="center">
-<img src="https://raw.githubusercontent.com/najiba-webdev/najiba-webdev/output/snake.svg" />
+<img src="https://raw.githubusercontent.com/najiba-webdev/najiba-ta/output/snake.svg" />
 </p>
 
 ---
