@@ -1,79 +1,75 @@
+<h1 align="center">Hi 👋, I'm Najiba Takarrum</h1>
+<h3 align="center">Frontend Developer | Learning Modern Web Development</h3>
+
 <p align="center">
-  <img src="https://github.com/najiba-ta/Naji/blob/main/images/ChatGPT%20Image%20Mar%2010%2C%202026%2C%2008_57_27%20PM.png" style="border-radius:15px;"/>
+I am currently learning web development and building responsive, user-friendly interfaces.
+I enjoy creating clean UI and improving my skills through practical projects.
 </p>
 
-
-
-<h1 align="center">Hi 👋, I'm Najiba Takarrum </h1>
-<p align="center">
-  <strong>Front-end Developer</strong> | HTML, CSS, JS, React, MongoDB, Node.js, Next.js, Firebase, AI
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=FF5733&width=500&lines=Building+Responsive+Websites;Automating+Workflows;Learning+Every+Day" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/najiba-webdev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/najiba-ta/" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://najiba-ta.github.io/Naji/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=najiba-ta&label=Profile%20views&color=0e75b6&style=flat" alt="najiba-ta" /> 
 </p>
 
 ---
 
-### 🌟 About Me
-I am a front-end developer currently learning web development and building responsive, user-friendly interfaces.
-I enjoy working with modern technologies and continuously improving my skills by creating practical projects.
-My focus is on writing clean code, designing minimal UI, and developing modern web experiences.
----
+### 🌐 Connect with me
 
-### 🔧 Skills
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Responsive_Design-4CAF50?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/n8n-FF4300?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI_Automation-6C63FF?style=for-the-badge"/>
+<p align="left">
+<a href="https://fb.com/najibatakarrum" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="najibatakarrum" height="30" width="40" />
+</a>
+
+<a href="https://instagram.com/naju_is_here" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naju_is_here" height="30" width="40" />
+</a>
 </p>
 
 ---
 
-### 💻 Projects
-| Project | Tech | Live Demo | GitHub |
-|---------|------|-----------|--------|
-| Responsive Tea House Website | HTML & CSS | [View](https://your-live-link.com) | [Repo](https://github.com/yourusername/tea-house) |
-| Automated Email Workflow | n8n | - | [Repo](https://github.com/yourusername/email-workflow) |
-| AI Data Processing Bot | Python | - | [Repo](https://github.com/yourusername/ai-bot) |
+### 🛠️ Languages and Tools
 
----
+<p align="left"> 
+<a href="https://www.w3.org/html/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> 
+</a>
 
-### 📫 Contact Me
-<p align="center">
-  <a href="shahidnajiba@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/najiba-webdev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
- <a href="https://www.instagram.com/naju_is_here" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  
-  <a href="https://www.facebook.com/najibatakarrum" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> 
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> 
+</a>
+
+<a href="https://reactjs.org/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/> 
+</a>
+
+<a href="https://tailwindcss.com/" target="_blank"> 
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/> 
+</a>
+
+<a href="https://nodejs.org" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/> 
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/> 
+</a>
 </p>
 
 ---
 
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue" alt="Profile Views"/>
+<img src="https://github-readme-stats.vercel.app/api?username=najiba-ta&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=najiba-ta&show_icons=true&locale=en&layout=compact" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=najiba-ta" />
 </p>
