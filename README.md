@@ -75,6 +75,22 @@
 
 ---
 
+## 📌 Pinned Repositories
+
+<p align="center">
+  <a href="https://github.com/najiba-ta/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=najiba-ta&repo=repo1&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/najiba-ta/repo2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=najiba-ta&repo=repo2&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/najiba-ta/repo3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=najiba-ta&repo=repo3&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+
+
 ## 💡 Developer Quote
 
 > "First, solve the problem. Then, write the code." – John Johnson
