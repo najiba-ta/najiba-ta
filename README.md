@@ -1,78 +1,91 @@
-<h1 align="left">Hi 👋, I'm Najiba Takarrum</h1>
-<h3 align="left">A passionate frontend developer from Bangladesh</h3>
+
+<h1 align="center">Hi 👋, I'm Najiba Takarrum</h1>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Web+Developer;Frontend+Developer;Learning+Full+Stack;React+%7C+Next.js+Developer;Programming+Hero+Student" />
+</p>
+
+<h3 align="center">A Passionate Web Developer from Bangladesh 🇧🇩</h3>
+
+---
+
+## 🚀 About Me
+
+- 🌱 I’m currently learning **Full Stack Web Development**
+- 🎓 Learning from **Programming Hero**
+- 💻 Exploring **React, Next.js & Backend Development**
+- 🧠 Currently learning **AI Tools for Developers**
+- 📫 Reach me at **shahidnajiba@gmail.com**
+- ⚡ Fun fact: I love designing modern and clean user interfaces
+
+---
+
+## 🌐 Connect with Me
 
 <p align="left">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&width=500&lines=Frontend+Developer;Learning+Modern+Web+Development;Building+Responsive+Websites;Creating+Clean+UI" />
-</p>
-
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=najiba-ta&label=Profile%20views&color=0e75b6&style=flat" alt="najiba-ta" /> 
-</p>
-
-<p align="left"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=najiba-ta&theme=flat&no-frame=true&margin-w=8" alt="najiba-ta" />
-</a> 
-</p>
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-<a href="https://www.linkedin.com/in/najiba-webdev/" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/najiba-webdev" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-
-<a href="https://fb.com/najibatakarrum" target="blank">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/naju_is_here" target="blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+<a href="https://github.com/najiba-webdev" target="blank">
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
-<p align="left"> 
+## 🛠️ Skills & Technologies
 
-<a href="https://www.w3.org/html/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.w3schools.com/css/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://reactjs.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://tailwindcss.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
-</a>
-
-<a href="https://nodejs.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.mongodb.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-</a>
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,nextjs,mongodb,git,github,vscode,figma" />
 </p>
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=najiba-ta&show_icons=true&locale=en&layout=compact" />
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=najiba-webdev&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=najiba-ta&show_icons=true&locale=en" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najiba-webdev&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=najiba-ta" />
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=najiba-webdev&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=najiba-webdev&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/najiba-webdev/najiba-webdev/output/snake.svg" />
+</p>
+
+---
+
+## ✨ Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=najiba-webdev&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 💡 Developer Quote
+
+> "First, solve the problem. Then, write the code." – John Johnson
+
