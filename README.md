@@ -71,9 +71,12 @@
 
 ## 🐍 Contribution Snake
 <p align="center">
-<img src="https://raw.githubusercontent.com/najiba-ta/najiba-ta/output/snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/najiba-ta/najiba-ta/raw/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/najiba-ta/najiba-ta/raw/output/snake.svg">
+    <img alt="GitHub Snake Animation" src="https://github.com/najiba-ta/najiba-ta/raw/output/snake.svg">
+  </picture>
 </p>
-
 ---
 
 ## ✨ Profile Views
