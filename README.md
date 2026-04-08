@@ -76,19 +76,26 @@
 
 ---
 
-## 📌 Pinned Repositories
+
+## 📌 My Projects
 
 <p align="center">
-  <a href="https://github.com/najiba-ta/Digi-tools-buying">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=najiba-ta&repo=Digi-tools-buying&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/najiba-ta/GitHub_Issue_Tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=najiba-ta&repo=GitHub_Issue_Tracker&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/najiba-ta/Naju-Aura">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=najiba-ta&repo=Naju-Aura&theme=tokyonight&hide_border=true" />
-  </a>
+<a href="https://github.com/najiba-ta/REPO-NAME-1">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=najiba-ta&repo=REPO-NAME-1&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/najiba-ta/REPO-NAME-2">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=najiba-ta&repo=REPO-NAME-2&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/najiba-ta/REPO-NAME-3">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=najiba-ta&repo=REPO-NAME-3&theme=tokyonight" />
+</a>
 </p>
+
+
+
+
 
 
 
