@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_BANNER_LINK" alt="banner" />
+  <img src="./banner.jpeg" alt="banner" />
 </p>
 <h1 align="center">Hi 👋, I'm Najiba Takarrum</h1>
 
