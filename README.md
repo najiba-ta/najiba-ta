@@ -78,7 +78,7 @@
 ## 📌 Pinned Repositories
 
 <p align="center">
-  <a href="https://github.com/najiba-ta/">
+  <a href="https://github.com/najiba-ta/TechWeb">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=najiba-ta&repo=repo1&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/najiba-ta/repo2">
