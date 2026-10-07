@@ -1,0 +1,155 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360" width="100%" height="100%">
+  <defs>
+    <linearGradient id="editorBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0c1018" />
+      <stop offset="100%" stop-color="#07090e" />
+    </linearGradient>
+
+    <linearGradient id="editorBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#222f44" />
+      <stop offset="50%" stop-color="#161f2e" />
+      <stop offset="100%" stop-color="#0f1622" />
+    </linearGradient>
+
+    <linearGradient id="quoteCardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d111a" />
+      <stop offset="100%" stop-color="#080a0f" />
+    </linearGradient>
+
+    <style>
+      @keyframes blinkCursor {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0; }
+      }
+      .c-comment { fill: #64748b; font-style: italic; }
+      .c-keyword { fill: #c084fc; font-weight: 600; }
+      .c-var { fill: #38bdf8; }
+      .c-key { fill: #7dd3fc; }
+      .c-str { fill: #34d399; }
+      .c-num { fill: #334155; }
+      .c-punc { fill: #94a3b8; }
+      .editor-font { font-family: 'SF Mono', 'Fira Code', Menlo, Consolas, monospace; font-size: 11px; line-height: 18px; }
+      .term-font { font-family: 'SF Mono', 'Fira Code', Menlo, Consolas, monospace; font-size: 11px; }
+      .cursor-blink { animation: blinkCursor 1s infinite; fill: #38bdf8; }
+      .quote-txt { font-family: 'Playfair Display', Georgia, 'Times New Roman', serif; font-size: 15px; fill: #cbd5e1; line-height: 1.6; }
+      .quote-mark { font-family: Georgia, serif; font-size: 40px; fill: #38bdf8; opacity: 0.7; }
+    </style>
+  </defs>
+
+  <!-- Left & Center: Modern Code Editor & Terminal (width 630) -->
+  <g transform="translate(10, 10)">
+    <!-- Outer Window Frame -->
+    <rect width="630" height="340" rx="12" fill="url(#editorBg)" stroke="url(#editorBorder)" stroke-width="1.2" />
+
+    <!-- Window Title Bar -->
+    <rect width="630" height="34" rx="12" fill="#090d14" />
+    <rect y="22" width="630" height="12" fill="#090d14" />
+    <line x1="0" y1="34" x2="630" y2="34" stroke="#161f2e" stroke-width="1" />
+
+    <!-- Window Dots -->
+    <circle cx="20" cy="17" r="4.5" fill="#ef4444" opacity="0.85" />
+    <circle cx="34" cy="17" r="4.5" fill="#f59e0b" opacity="0.85" />
+    <circle cx="48" cy="17" r="4.5" fill="#10b981" opacity="0.85" />
+
+    <!-- Tab 1: journey.js (Active Editor Tab) -->
+    <g transform="translate(70, 6)">
+      <rect width="105" height="28" rx="6" fill="#0c1018" stroke="#1e293b" stroke-width="0.8" />
+      <line x1="12" y1="0" x2="93" y2="0" stroke="#38bdf8" stroke-width="2" />
+      <text x="14" y="18" font-family="'SF Mono', Menlo, monospace" font-size="10.5" fill="#64748b">✕</text>
+      <text x="28" y="18" font-family="'SF Mono', Menlo, monospace" font-size="11" fill="#e2e8f0">journey.js</text>
+    </g>
+
+    <!-- Tab 2 & 3: Terminal & Output Header -->
+    <g transform="translate(360, 11)">
+      <text x="0" y="12" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11.5" font-weight="600" fill="#38bdf8">Terminal</text>
+      <text x="70" y="12" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="11.5" fill="#64748b">Output</text>
+    </g>
+
+    <!-- Vertical Split Line Between Code & Terminal -->
+    <line x1="330" y1="35" x2="330" y2="340" stroke="#161f2e" stroke-width="1" stroke-dasharray="3 3" />
+
+    <!-- SUBPANEL 1: Code Editor (x=16, width=300) -->
+    <g transform="translate(18, 52)" class="editor-font">
+      <!-- Line 1 -->
+      <text x="0" y="14"><tspan class="c-num"> 1 </tspan> <tspan class="c-comment">// My journey</tspan></text>
+      <!-- Line 2 -->
+      <text x="0" y="34"><tspan class="c-num"> 2 </tspan> <tspan class="c-keyword">const</tspan> <tspan class="c-var">developer</tspan> <tspan class="c-punc">=</tspan> <tspan class="c-punc">{</tspan></text>
+      <!-- Line 3 -->
+      <text x="0" y="54"><tspan class="c-num"> 3 </tspan>   <tspan class="c-key">name</tspan><tspan class="c-punc">:</tspan> <tspan class="c-str">'Najiba Takarrum'</tspan><tspan class="c-punc">,</tspan></text>
+      <!-- Line 4 -->
+      <text x="0" y="74"><tspan class="c-num"> 4 </tspan>   <tspan class="c-key">role</tspan><tspan class="c-punc">:</tspan> <tspan class="c-punc">[</tspan><tspan class="c-str">'Frontend'</tspan><tspan class="c-punc">,</tspan> <tspan class="c-str">'Full-Stack'</tspan><tspan class="c-punc">],</tspan></text>
+      <!-- Line 5 -->
+      <text x="0" y="94"><tspan class="c-num"> 5 </tspan>   <tspan class="c-key">focus</tspan><tspan class="c-punc">:</tspan> <tspan class="c-punc">[</tspan><tspan class="c-str">'Clean UI'</tspan><tspan class="c-punc">,</tspan> <tspan class="c-str">'Scalable'</tspan><tspan class="c-punc">],</tspan></text>
+      <!-- Line 6 -->
+      <text x="0" y="114"><tspan class="c-num"> 6 </tspan>   <tspan class="c-key">mindset</tspan><tspan class="c-punc">:</tspan> <tspan class="c-str">'Curious'</tspan><tspan class="c-punc">,</tspan></text>
+      <!-- Line 7 -->
+      <text x="0" y="134"><tspan class="c-num"> 7 </tspan>   <tspan class="c-key">goal</tspan><tspan class="c-punc">:</tspan> <tspan class="c-str">'Software Engineer'</tspan></text>
+      <!-- Line 8 -->
+      <text x="0" y="154"><tspan class="c-num"> 8 </tspan> <tspan class="c-punc">};</tspan></text>
+      <!-- Line 9 -->
+      <text x="0" y="174"><tspan class="c-num"> 9 </tspan></text>
+      <!-- Line 10 -->
+      <text x="0" y="194"><tspan class="c-num">10 </tspan> <tspan class="c-var">console</tspan><tspan class="c-punc">.</tspan><tspan class="c-var">log</tspan><tspan class="c-punc">(</tspan></text>
+      <!-- Line 11 -->
+      <text x="0" y="214"><tspan class="c-num">11 </tspan>   <tspan class="c-str">'Building quietly. Solving deeply.'</tspan></text>
+      <!-- Line 12 -->
+      <text x="0" y="234"><tspan class="c-num">12 </tspan> <tspan class="c-punc">);</tspan></text>
+    </g>
+
+    <!-- SUBPANEL 2: Terminal Output (x=345, width=270) -->
+    <g transform="translate(348, 52)" class="term-font">
+      <!-- Command Run -->
+      <text x="0" y="14" fill="#64748b">&gt; node journey.js</text>
+
+      <!-- Output Identity -->
+      <g transform="translate(0, 36)">
+        <circle cx="5" cy="5" r="3" fill="#10b981" />
+        <text x="16" y="8" font-size="12" font-weight="600" fill="#f8fafc">Najiba Takarrum</text>
+      </g>
+
+      <g transform="translate(0, 70)">
+        <text x="0" y="0" fill="#64748b">Role    :</text> <text x="65" y="0" fill="#cbd5e1">Full-Stack Developer</text>
+        <text x="0" y="20" fill="#64748b">Mindset :</text> <text x="65" y="20" fill="#cbd5e1">Curious</text>
+        <text x="0" y="40" fill="#64748b">Focus   :</text> <text x="65" y="40" fill="#cbd5e1">Build / Learn / Improve</text>
+        <text x="0" y="60" fill="#64748b">Goal    :</text> <text x="65" y="60" fill="#38bdf8">Software Engineer (Insha Allah)</text>
+      </g>
+
+      <!-- Console Tagline Pill -->
+      <g transform="translate(0, 160)">
+        <rect width="250" height="28" rx="6" fill="#0f172a" stroke="#1e293b" stroke-width="0.8" />
+        <text x="12" y="18" fill="#7dd3fc" font-size="11">Building quietly. Solving deeply.</text>
+      </g>
+
+      <!-- Terminal Prompt with Blinking Cursor -->
+      <g transform="translate(0, 218)">
+        <text x="0" y="0" fill="#38bdf8">&gt; najiba@workspace:~$<tspan dx="4" class="cursor-blink">█</tspan></text>
+      </g>
+    </g>
+  </g>
+
+  <!-- Far Right: Quote & Personality Card (x=660, width=230) -->
+  <g transform="translate(660, 10)">
+    <rect width="230" height="340" rx="12" fill="url(#quoteCardBg)" stroke="url(#editorBorder)" stroke-width="1.2" />
+
+    <!-- Quote Mark -->
+    <text x="24" y="52" class="quote-mark">“</text>
+
+    <!-- Quote Lines -->
+    <text x="24" y="90" class="quote-txt">
+      <tspan x="24" dy="0">Small steps,</tspan>
+      <tspan x="24" dy="24">consistent effort,</tspan>
+      <tspan x="24" dy="24">big dreams.</tspan>
+    </text>
+
+    <!-- Code Tag -->
+    <text x="24" y="180" font-family="'SF Mono', Menlo, monospace" font-size="12" fill="#38bdf8" opacity="0.8">&lt;/&gt;</text>
+
+    <!-- Decorative Delicate Line Art Branch (Bottom Right Corner) -->
+    <g transform="translate(140, 220)" opacity="0.25">
+      <path d="M 10 100 Q 30 50 60 20" fill="none" stroke="#38bdf8" stroke-width="1.2" />
+      <path d="M 25 75 Q 45 70 50 85 Q 35 90 25 75 Z" fill="#38bdf8" />
+      <path d="M 38 52 Q 60 48 62 62 Q 48 68 38 52 Z" fill="#38bdf8" />
+      <path d="M 52 30 Q 72 24 74 38 Q 60 44 52 30 Z" fill="#38bdf8" />
+    </g>
+  </g>
+</svg>
