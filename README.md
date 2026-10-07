@@ -81,13 +81,21 @@
 
 <br/>
 
-<!-- ================= 6. FOOTER WITH GLOWING WAVE TRAILS & METADATA ================= -->
+<!-- ================= 7. FOOTER WITH GLOWING WAVE TRAILS & LIVE PROFILE VIEWS ================= -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/najiba-ta/najiba-ta/main/assets/sections/06_footer_flow.svg" width="100%" alt="Footer Flow" />
 </p>
 
-<div align="center">
-  <a href="https://komarev.com/ghpvc/?username=najiba-ta&label=Profile%20views&color=0c1018&style=flat-square">
-    <img src="https://komarev.com/ghpvc/?username=najiba-ta&label=Profile%20views&color=0c1018&style=flat-square" alt="Profile views" />
-  </a>
-</div>
+<table width="100%">
+  <tr>
+    <td align="left">
+      <small style="color: #64748b; font-family: monospace;">&nbsp;&nbsp;najiba-ta &nbsp;•&nbsp; 2026</small>
+    </td>
+    <td align="right">
+      <a href="https://github.com/najiba-ta">
+        <img src="https://komarev.com/ghpvc/?username=najiba-ta&label=Profile%20Views&color=38bdf8&style=flat-square" alt="Profile Views" />
+      </a>
+      &nbsp;&nbsp;
+    </td>
+  </tr>
+</table>
