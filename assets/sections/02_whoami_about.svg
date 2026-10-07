@@ -50,19 +50,19 @@
     <!-- Prompt 2: role -->
     <g transform="translate(26, 122)">
       <text x="0" y="0" class="term-cmd">&gt; role</text>
-      <text x="12" y="18" class="term-val">Frontend Developer &nbsp;/&nbsp; Full-Stack Developer</text>
+      <text x="12" y="18" class="term-val">Frontend Developer  /  Full-Stack Developer</text>
     </g>
 
     <!-- Prompt 3: mindset -->
     <g transform="translate(26, 174)">
       <text x="0" y="0" class="term-cmd">&gt; mindset</text>
-      <text x="12" y="18" class="term-val">Focused &nbsp;•&nbsp; Curious &nbsp;•&nbsp; Analytical</text>
+      <text x="12" y="18" class="term-val">Focused  •  Curious  •  Analytical</text>
     </g>
 
     <!-- Prompt 4: craft -->
     <g transform="translate(26, 226)">
       <text x="0" y="0" class="term-cmd">&gt; craft</text>
-      <text x="12" y="18" class="term-val">Clean UI &nbsp;•&nbsp; Scalable Systems &nbsp;•&nbsp; Problem Solver</text>
+      <text x="12" y="18" class="term-val">Clean UI  •  Scalable Systems  •  Problem Solver</text>
     </g>
 
     <!-- Prompt 5: location -->

@@ -59,7 +59,7 @@
   </g>
 
   <!-- Bottom Left: Identity & Year -->
-  <text x="30" y="146" class="foot-meta">najiba-ta &nbsp;•&nbsp; 2026</text>
+  <text x="30" y="146" class="foot-meta">najiba-ta  •  2026</text>
 
   <!-- Bottom Right: Profile Views Indicator -->
   <g transform="translate(860, 134)">
