@@ -51,40 +51,38 @@
 <br/><br/>
 
 <!-- DEDICATED CONTRIBUTION STREAK PANEL -->
-<table width="100%">
-  <tr>
-    <td align="center">
-      <br/>
-      <div align="left">
-        <strong>&nbsp;&nbsp;&nbsp;&nbsp;GitHub Contribution</strong> &nbsp;<small style="color: #64748b;">Less noise. More progress.</small>
-      </div>
-      <br/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=najiba-ta&theme=tokyonight&hide_border=true&background=0c1018&ring=38bdf8&fire=38bdf8&currStreakNum=38bdf8&sideNums=94a3b8&dates=64748b" width="95%" alt="GitHub Contribution Streak" />
-      <br/><br/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table width="100%" align="center">
+    <tr>
+      <td align="center" width="100%" style="padding: 16px 20px;">
+        <div align="left" style="margin-bottom: 12px;">
+          <strong>&nbsp;GitHub Contribution</strong> &nbsp;&nbsp;<span style="color: #64748b; font-size: 12px;">Less noise. More progress.</span>
+        </div>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=najiba-ta&theme=tokyonight&hide_border=true&background=0c1018&ring=38bdf8&fire=38bdf8&currStreakNum=38bdf8&sideNums=94a3b8&dates=64748b" width="100%" alt="GitHub Contribution Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br/><br/>
 
 <!-- DEDICATED CONTRIBUTION SNAKE PANEL -->
-<table width="100%">
-  <tr>
-    <td align="center">
-      <br/>
-      <div align="left">
-        <strong>&nbsp;&nbsp;&nbsp;&nbsp;Contribution Snake</strong> &nbsp;<small style="color: #64748b;">Keep going...</small>
-      </div>
-      <br/>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/najiba-ta/najiba-ta/raw/output/snake-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://github.com/najiba-ta/najiba-ta/raw/output/snake.svg">
-        <img alt="Contribution Snake" src="https://github.com/najiba-ta/najiba-ta/raw/output/snake.svg" width="95%">
-      </picture>
-      <br/><br/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table width="100%" align="center">
+    <tr>
+      <td align="center" width="100%" style="padding: 16px 20px;">
+        <div align="left" style="margin-bottom: 12px;">
+          <strong>&nbsp;Contribution Snake</strong> &nbsp;&nbsp;<span style="color: #64748b; font-size: 12px;">Keep going...</span>
+        </div>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/najiba-ta/najiba-ta/raw/output/snake-dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="https://github.com/najiba-ta/najiba-ta/raw/output/snake.svg">
+          <img alt="Contribution Snake" src="https://github.com/najiba-ta/najiba-ta/raw/output/snake.svg" width="100%">
+        </picture>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br/><br/>
 
