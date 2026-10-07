@@ -45,30 +45,39 @@
 
 <br/>
 
-<!-- ================= 5. GITHUB CONTRIBUTION & CONTRIBUTION SNAKE (BALANCED SIDE-BY-SIDE) ================= -->
-<table width="100%">
-  <tr>
-    <!-- LEFT CARD: GITHUB CONTRIBUTION -->
-    <td width="50%" valign="top">
-      <div align="left" style="padding: 10px 14px 4px 14px;">
-        <strong>GitHub Contribution</strong> &nbsp;&nbsp;<span style="color: #64748b; font-size: 11px;">Less noise. More progress.</span>
-      </div>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=najiba-ta&theme=tokyonight&hide_border=true&background=0c1018&ring=38bdf8&fire=38bdf8&currStreakNum=38bdf8&sideNums=94a3b8&dates=64748b" width="100%" alt="GitHub Contribution Streak" />
-    </td>
+<!-- ================= 5. GITHUB CONTRIBUTION (CENTERED DEDICATED PANEL) ================= -->
+<div align="center">
+  <table width="100%" align="center">
+    <tr>
+      <td align="center" width="100%" style="padding: 16px 20px;">
+        <div align="left" style="margin-bottom: 12px;">
+          <strong>&nbsp;&nbsp;GitHub Contribution</strong> &nbsp;&nbsp;<span style="color: #64748b; font-size: 12px;">Less noise. More progress.</span>
+        </div>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=najiba-ta&theme=tokyonight&hide_border=true&background=0c1018&ring=38bdf8&fire=38bdf8&currStreakNum=38bdf8&sideNums=94a3b8&dates=64748b" width="100%" alt="GitHub Contribution Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-    <!-- RIGHT CARD: CONTRIBUTION SNAKE -->
-    <td width="50%" valign="top">
-      <div align="left" style="padding: 10px 14px 4px 14px;">
-        <strong>Contribution Snake</strong> &nbsp;&nbsp;<span style="color: #64748b; font-size: 11px;">Keep going...</span>
-      </div>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/najiba-ta/najiba-ta/raw/output/snake-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://github.com/najiba-ta/najiba-ta/raw/output/snake.svg">
-        <img alt="Contribution Snake" src="https://github.com/najiba-ta/najiba-ta/raw/output/snake.svg" width="100%">
-      </picture>
-    </td>
-  </tr>
-</table>
+<br/><br/>
+
+<!-- ================= 6. CONTRIBUTION SNAKE (CENTERED DEDICATED PANEL) ================= -->
+<div align="center">
+  <table width="100%" align="center">
+    <tr>
+      <td align="center" width="100%" style="padding: 16px 20px;">
+        <div align="left" style="margin-bottom: 12px;">
+          <strong>&nbsp;&nbsp;Contribution Snake</strong> &nbsp;&nbsp;<span style="color: #64748b; font-size: 12px;">Keep going...</span>
+        </div>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/najiba-ta/najiba-ta/output/snake-dark.svg">
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/najiba-ta/najiba-ta/output/snake.svg">
+          <img src="https://raw.githubusercontent.com/najiba-ta/najiba-ta/output/snake-dark.svg" alt="Contribution Snake" width="100%" />
+        </picture>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br/>
 
