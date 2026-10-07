@@ -1,0 +1,150 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 360" width="100%" height="100%">
+  <defs>
+    <linearGradient id="edBg1000" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0c1018" />
+      <stop offset="100%" stop-color="#07090e" />
+    </linearGradient>
+
+    <linearGradient id="edBorder1000" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#222f44" />
+      <stop offset="50%" stop-color="#161f2e" />
+      <stop offset="100%" stop-color="#0f1622" />
+    </linearGradient>
+
+    <linearGradient id="botanicalGrad" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.2" />
+      <stop offset="50%" stop-color="#818cf8" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0.7" />
+    </linearGradient>
+
+    <style>
+      @keyframes blinkCursor1000 {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0; }
+      }
+      .c-comment { fill: #64748b; font-style: italic; }
+      .c-keyword { fill: #c084fc; font-weight: 600; }
+      .c-var { fill: #38bdf8; }
+      .c-key { fill: #7dd3fc; }
+      .c-str { fill: #34d399; }
+      .c-num { fill: #334155; }
+      .c-punc { fill: #94a3b8; }
+      .editor-font { font-family: 'SF Mono', 'Fira Code', Menlo, Consolas, monospace; font-size: 11.5px; line-height: 18px; }
+      .term-font { font-family: 'SF Mono', 'Fira Code', Menlo, Consolas, monospace; font-size: 11.5px; }
+      .cursor-blink { animation: blinkCursor1000 1s infinite; fill: #38bdf8; }
+      .quote-txt { font-family: 'Playfair Display', Georgia, 'Times New Roman', serif; font-size: 16px; fill: #cbd5e1; line-height: 1.6; }
+      .quote-mark { font-family: Georgia, serif; font-size: 44px; fill: #38bdf8; opacity: 0.8; }
+    </style>
+  </defs>
+
+  <!-- Left & Center: Modern Code Editor & Terminal (width 700) -->
+  <g transform="translate(10, 10)">
+    <rect width="700" height="340" rx="12" fill="url(#edBg1000)" stroke="url(#edBorder1000)" stroke-width="1.2" />
+
+    <!-- Window Title Bar -->
+    <rect width="700" height="34" rx="12" fill="#090d14" />
+    <rect y="22" width="700" height="12" fill="#090d14" />
+    <line x1="0" y1="34" x2="700" y2="34" stroke="#161f2e" stroke-width="1" />
+
+    <!-- Window Dots -->
+    <circle cx="22" cy="17" r="4.5" fill="#ef4444" opacity="0.85" />
+    <circle cx="36" cy="17" r="4.5" fill="#f59e0b" opacity="0.85" />
+    <circle cx="50" cy="17" r="4.5" fill="#10b981" opacity="0.85" />
+
+    <!-- Tab 1: journey.js -->
+    <g transform="translate(74, 6)">
+      <rect width="115" height="28" rx="6" fill="#0c1018" stroke="#1e293b" stroke-width="0.8" />
+      <line x1="12" y1="0" x2="103" y2="0" stroke="#38bdf8" stroke-width="2" />
+      <text x="14" y="18" font-family="'SF Mono', Menlo, monospace" font-size="10.5" fill="#64748b">✕</text>
+      <text x="30" y="18" font-family="'SF Mono', Menlo, monospace" font-size="11.5" fill="#e2e8f0">journey.js</text>
+    </g>
+
+    <!-- Tab 2 & 3: Terminal & Output Header -->
+    <g transform="translate(400, 11)">
+      <text x="0" y="12" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="12" font-weight="600" fill="#38bdf8">Terminal</text>
+      <text x="80" y="12" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="12" fill="#64748b">Output</text>
+    </g>
+
+    <!-- Vertical Split Line -->
+    <line x1="365" y1="35" x2="365" y2="340" stroke="#161f2e" stroke-width="1" stroke-dasharray="3 3" />
+
+    <!-- SUBPANEL 1: Code Editor (width 340) -->
+    <g transform="translate(20, 52)" class="editor-font">
+      <text x="0" y="14"><tspan class="c-num"> 1 </tspan> <tspan class="c-comment">// My journey</tspan></text>
+      <text x="0" y="34"><tspan class="c-num"> 2 </tspan> <tspan class="c-keyword">const</tspan> <tspan class="c-var">developer</tspan> <tspan class="c-punc">=</tspan> <tspan class="c-punc">{</tspan></text>
+      <text x="0" y="54"><tspan class="c-num"> 3 </tspan>   <tspan class="c-key">name</tspan><tspan class="c-punc">:</tspan> <tspan class="c-str">'Najiba Takarrum'</tspan><tspan class="c-punc">,</tspan></text>
+      <text x="0" y="74"><tspan class="c-num"> 4 </tspan>   <tspan class="c-key">role</tspan><tspan class="c-punc">:</tspan> <tspan class="c-punc">[</tspan><tspan class="c-str">'Frontend'</tspan><tspan class="c-punc">,</tspan> <tspan class="c-str">'Full-Stack'</tspan><tspan class="c-punc">],</tspan></text>
+      <text x="0" y="94"><tspan class="c-num"> 5 </tspan>   <tspan class="c-key">focus</tspan><tspan class="c-punc">:</tspan> <tspan class="c-punc">[</tspan><tspan class="c-str">'Clean UI'</tspan><tspan class="c-punc">,</tspan> <tspan class="c-str">'Scalable Systems'</tspan><tspan class="c-punc">],</tspan></text>
+      <text x="0" y="114"><tspan class="c-num"> 6 </tspan>   <tspan class="c-key">mindset</tspan><tspan class="c-punc">:</tspan> <tspan class="c-str">'Curious'</tspan><tspan class="c-punc">,</tspan></text>
+      <text x="0" y="134"><tspan class="c-num"> 7 </tspan>   <tspan class="c-key">goal</tspan><tspan class="c-punc">:</tspan> <tspan class="c-str">'Software Engineer'</tspan></text>
+      <text x="0" y="154"><tspan class="c-num"> 8 </tspan> <tspan class="c-punc">};</tspan></text>
+      <text x="0" y="174"><tspan class="c-num"> 9 </tspan></text>
+      <text x="0" y="194"><tspan class="c-num">10 </tspan> <tspan class="c-var">console</tspan><tspan class="c-punc">.</tspan><tspan class="c-var">log</tspan><tspan class="c-punc">(</tspan></text>
+      <text x="0" y="214"><tspan class="c-num">11 </tspan>   <tspan class="c-str">'Building quietly. Solving deeply.'</tspan></text>
+      <text x="0" y="234"><tspan class="c-num">12 </tspan> <tspan class="c-punc">);</tspan></text>
+    </g>
+
+    <!-- SUBPANEL 2: Terminal Output (width 320) -->
+    <g transform="translate(385, 52)" class="term-font">
+      <text x="0" y="14" fill="#64748b">&gt; node journey.js</text>
+
+      <g transform="translate(0, 36)">
+        <circle cx="5" cy="5" r="3.5" fill="#10b981" />
+        <text x="18" y="8" font-size="12.5" font-weight="600" fill="#f8fafc">Najiba Takarrum</text>
+      </g>
+
+      <g transform="translate(0, 70)">
+        <text x="0" y="0" fill="#64748b">Role    :</text> <text x="70" y="0" fill="#cbd5e1">Full-Stack Developer</text>
+        <text x="0" y="20" fill="#64748b">Mindset :</text> <text x="70" y="20" fill="#cbd5e1">Curious</text>
+        <text x="0" y="40" fill="#64748b">Focus   :</text> <text x="70" y="40" fill="#cbd5e1">Build / Learn / Improve</text>
+        <text x="0" y="60" fill="#64748b">Goal    :</text> <text x="70" y="60" fill="#38bdf8">Software Engineer (Insha Allah)</text>
+      </g>
+
+      <g transform="translate(0, 160)">
+        <rect width="280" height="28" rx="6" fill="#0f172a" stroke="#1e293b" stroke-width="0.8" />
+        <text x="14" y="18" fill="#7dd3fc" font-size="11.5">Building quietly. Solving deeply.</text>
+      </g>
+
+      <g transform="translate(0, 218)">
+        <text x="0" y="0" fill="#38bdf8">&gt; najiba@workspace:~$<tspan dx="5" class="cursor-blink">█</tspan></text>
+      </g>
+    </g>
+  </g>
+
+  <!-- Right: Quote & Personality Card with Botanical Artwork (width 265, starts at x=725) -->
+  <g transform="translate(725, 10)">
+    <rect width="265" height="340" rx="12" fill="url(#edBg1000)" stroke="url(#edBorder1000)" stroke-width="1.2" />
+
+    <!-- Quote Mark -->
+    <text x="26" y="54" class="quote-mark">“</text>
+
+    <!-- Quote Text -->
+    <text x="26" y="94" class="quote-txt">
+      <tspan x="26" dy="0">Small steps,</tspan>
+      <tspan x="26" dy="25">consistent effort,</tspan>
+      <tspan x="26" dy="25">big dreams.</tspan>
+    </text>
+
+    <!-- Code Tag -->
+    <text x="26" y="186" font-family="'SF Mono', Menlo, monospace" font-size="13" fill="#38bdf8" opacity="0.85">&lt;/&gt;</text>
+
+    <!-- Glowing Botanical Branch Artwork in Bottom Right -->
+    <g transform="translate(130, 160)">
+      <!-- Main Stem Curves -->
+      <path d="M 40 170 Q 70 110 115 50" fill="none" stroke="url(#botanicalGrad)" stroke-width="2" stroke-linecap="round" />
+      <path d="M 65 125 Q 40 90 20 70" fill="none" stroke="url(#botanicalGrad)" stroke-width="1.5" stroke-linecap="round" />
+
+      <!-- Delicate Leaves with Neon Veins -->
+      <!-- Leaf 1 (Top right) -->
+      <path d="M 115 50 Q 135 45 130 65 Q 115 70 115 50 Z" fill="#818cf8" fill-opacity="0.25" stroke="#38bdf8" stroke-width="1" />
+      <!-- Leaf 2 (Right middle) -->
+      <path d="M 95 85 Q 125 80 120 102 Q 95 105 95 85 Z" fill="#818cf8" fill-opacity="0.3" stroke="#38bdf8" stroke-width="1" />
+      <!-- Leaf 3 (Left middle) -->
+      <path d="M 65 125 Q 45 110 40 130 Q 60 135 65 125 Z" fill="#818cf8" fill-opacity="0.25" stroke="#38bdf8" stroke-width="1" />
+      <!-- Leaf 4 (Top left branch) -->
+      <path d="M 20 70 Q 10 50 25 45 Q 35 60 20 70 Z" fill="#818cf8" fill-opacity="0.35" stroke="#38bdf8" stroke-width="1" />
+      <!-- Leaf 5 (Bottom) -->
+      <path d="M 75 145 Q 105 150 100 168 Q 75 165 75 145 Z" fill="#818cf8" fill-opacity="0.25" stroke="#38bdf8" stroke-width="1" />
+    </g>
+  </g>
+</svg>
