@@ -81,21 +81,43 @@
 
 <br/>
 
-<!-- ================= 7. FOOTER WITH GLOWING WAVE TRAILS & LIVE PROFILE VIEWS ================= -->
+<br/><br/>
+
+<!-- ================= 7. LIVE PROFILE VIEWS & TELEMETRY (CENTERED THEMED PANEL) ================= -->
+<div align="center">
+  <table width="100%" align="center">
+    <tr>
+      <td align="center" width="100%" style="padding: 24px 20px;">
+        <div align="center" style="margin-bottom: 14px;">
+          <strong>&nbsp;&nbsp;Live Profile Telemetry</strong> &nbsp;&nbsp;<span style="color: #64748b; font-size: 12px;">Real-time visitor count &amp; traffic monitor</span>
+        </div>
+        <p align="center">
+          <a href="https://github.com/najiba-ta" target="_blank">
+            <img src="https://img.shields.io/badge/RADAR-ONLINE-0c1018?style=for-the-badge&logo=statuspage&logoColor=38bdf8&labelColor=080a0e" alt="Radar Online" />
+          </a>
+          &nbsp;&nbsp;
+          <a href="https://github.com/najiba-ta" target="_blank">
+            <img src="https://komarev.com/ghpvc/?username=najiba-ta&label=PROFILE%20VIEWS&color=38bdf8&style=for-the-badge" alt="Profile Views Counter" />
+          </a>
+          &nbsp;&nbsp;
+          <a href="https://github.com/najiba-ta" target="_blank">
+            <img src="https://img.shields.io/badge/SECURITY-ENCRYPTED-0c1018?style=for-the-badge&logo=hackthebox&logoColor=38bdf8&labelColor=080a0e" alt="Security Encrypted" />
+          </a>
+        </p>
+        <div align="center" style="margin-top: 10px;">
+          <small style="color: #64748b; font-family: monospace; font-size: 11px;">
+            najiba-ta &nbsp;•&nbsp; Full-Stack Developer &nbsp;•&nbsp; 2026
+          </small>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/><br/>
+
+<!-- ================= 8. FOOTER WITH GLOWING WAVE TRAILS ================= -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/najiba-ta/najiba-ta/main/assets/sections/06_footer_flow.svg" width="100%" alt="Footer Flow" />
 </p>
 
-<table width="100%">
-  <tr>
-    <td align="left">
-      <small style="color: #64748b; font-family: monospace;">&nbsp;&nbsp;najiba-ta &nbsp;•&nbsp; 2026</small>
-    </td>
-    <td align="right">
-      <a href="https://github.com/najiba-ta">
-        <img src="https://komarev.com/ghpvc/?username=najiba-ta&label=Profile%20Views&color=38bdf8&style=flat-square" alt="Profile Views" />
-      </a>
-      &nbsp;&nbsp;
-    </td>
-  </tr>
-</table>
